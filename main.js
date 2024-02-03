@@ -367,7 +367,7 @@ let addC = document.querySelector(".btn-secondary")
 let cart = document.createElement("button")
 cart.className = "cart btn btn-warning btn-lg"
 cart.style.position = "absolute";
-cart.style.top = "15%"
+cart.style.top = "3%"
 cart.style.right ="7%"
 // cart.innerHTML= '<i class="fa-solid fa-cart-shopping"></i>';
 
